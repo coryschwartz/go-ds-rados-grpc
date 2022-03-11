@@ -21,6 +21,8 @@ In this example, lotus is setup to connect to an instance of this datastore for 
 
 ![gif](https://gist.github.com/coryschwartz/43e845517bb9b228b005e79ee6490868/raw/6950a27789d17bbd47c19501cae3fc6331ffa282/small.gif)
 
+
+Here's a larger video file, same demo.
 [mkv](https://gist.github.com/coryschwartz/43e845517bb9b228b005e79ee6490868/raw/773609722c26d90eed24fe9d412426f11e90e593/video.mkv)
 
 # Building
